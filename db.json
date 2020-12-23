@@ -7,6 +7,30 @@
     {
       "content": "paras feature ikinä <3",
       "id": 2
+    },
+    {
+      "content": "hi",
+      "id": 3
+    },
+    {
+      "content": "hello",
+      "id": 4
+    },
+    {
+      "content": "test",
+      "id": 5
+    },
+    {
+      "content": "",
+      "id": 6
+    },
+    {
+      "content": "wut",
+      "id": 7
+    },
+    {
+      "content": "it's good",
+      "id": 8
     }
   ],
   "persons": [
@@ -14,6 +38,11 @@
       "name": "mluukkai",
       "number": "040-5483923",
       "id": 1
+    },
+    {
+      "name": "stevesie",
+      "number": "0000",
+      "id": 2
     }
   ]
 }
